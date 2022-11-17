@@ -1,5 +1,11 @@
 # IMDB Top 1000 movies Analysis
 
+
+<p align="center">
+ <img src='https://github.com/shrikrishnau/Portfolio/blob/main/images/IMDB.jpg?raw=true' width="900">
+
+</p>
+
 ## Problem statement
 The imdb data of top 1000 movies has to be sourced from web, cleaned and analysed using Python. Produce your insights from the data after analysis like which movie has the highest rating, Which movie was the highest grosser in the list, Rating Vs Revenue, Genre Vs Revenue.
 
@@ -72,7 +78,3 @@ The aim of this project is to find the correlation between revenue, rating and l
 
 
 
-<p align="center">
- <img src='https://github.com/shrikrishnau/Portfolio/blob/main/images/IMDB.jpg?raw=true' width="1000">
-
-</p>
