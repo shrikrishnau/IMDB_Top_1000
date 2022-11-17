@@ -27,7 +27,7 @@ The aim of this project is to find the correlation between revenue, rating and l
 ### Bar Graph depicting the movies with Highest Gross:
 
 <p align="center">
-<img src='https://github.com/shrikrishnau/IMDB_Top_1000/blob/main/IMDB%201000/movies%20with%20highest%20gross.JPG?raw=true' width="600">
+<img src='https://github.com/shrikrishnau/IMDB_Top_1000/blob/main/IMDB%201000/movies%20with%20highest%20gross.JPG?raw=true' width="600",height="400">
 
 </p>
 
