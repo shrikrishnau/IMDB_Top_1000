@@ -11,7 +11,7 @@ The imdb data of top 1000 movies has to be sourced from web, cleaned and analyse
 
 
 ## About the data set
-* The dataset was sourced from Kaggle [IMDB Top 1000 Movies Data](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
+* The dataset was sourced from Kaggle [IMDB Top 1000 Movies Data](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows).
 * This dataset contains data of top 1000 movies as per rating from the yeaar 1920 till the year 2020.
 
 
