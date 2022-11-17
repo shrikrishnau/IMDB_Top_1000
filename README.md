@@ -70,7 +70,9 @@ The aim of this project is to find the correlation between revenue, rating and l
 * Higher Rating doesn't always necessarily imply higher revenue will be generated.
 * About 3/4th of the list, 724 movies fall in the genre of 'Drama' followed by 'Action' and 'Thriller'.
 
+
+
 <p align="center">
- <img src='https://github.com/shrikrishnau/Portfolio/blob/main/images/IMDB.jpg?raw=true' width="800">
+ <img src='https://github.com/shrikrishnau/Portfolio/blob/main/images/IMDB.jpg?raw=true' width="1000">
 
 </p>
