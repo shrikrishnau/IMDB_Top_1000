@@ -36,25 +36,25 @@ The aim of this project is to find the correlation between revenue, rating and l
 
 
 ### Bar Graph correlation between Directors and the top 10 movies in the list:
-<p align="center">
+<p align="left">
  <img src='https://github.com/shrikrishnau/IMDB_Top_1000/blob/main/IMDB%201000/Director%20Vs%20Rating.JPG?raw=true' width="600">
 
 </p>
 
 ### Bar Graph correlation between the number of movies released in a year and its presence in the list:
-<p align="center">
+<p align="left">
  <img src='https://github.com/shrikrishnau/IMDB_Top_1000/blob/main/IMDB%201000/Number%20of%20movies%20in%20a%20year.JPG?raw=true' width="600">
 
 </p>
 
 ### Correlation between the Rating and Gross of a movie:
-<p align="center">
+<p align="left">
  <img src='https://github.com/shrikrishnau/IMDB_Top_1000/blob/main/IMDB%201000/Rating%20Vs%20Revenue.JPG?raw=true' width="600">
 
 </p>
 
 ### Bar Graph depicting the top 10 movies by runtime in the list:
-<p align="center">
+<p align="left">
  <img src='https://github.com/shrikrishnau/IMDB_Top_1000/blob/main/IMDB%201000/Runtime_IMDB.JPG?raw=true' width="600">
 
 </p>
