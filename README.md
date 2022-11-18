@@ -23,6 +23,9 @@ The aim of this project is to find the correlation between revenue, rating and l
 * Seaborn
 * Matplotlib
 
+## Link to Code
+
+[Python Code](https://github.com/shrikrishnau/IMDB_Top_1000/blob/main/IMDB%20Top%201000.ipynb)
 
 ### Bar Graph depicting the movies with Highest Gross:
 
